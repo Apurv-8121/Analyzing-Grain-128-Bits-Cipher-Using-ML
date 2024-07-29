@@ -9,13 +9,13 @@ Here's how it generally works:
 
 Advantages:
 
-    Easy to understand and interpret.
-    Requires little data preparation.
-    Can handle both numerical and categorical data.
+    : Easy to understand and interpret.
+    : Requires little data preparation.
+    : Can handle both numerical and categorical data.
 
 Disadvantages:
 
-    Prone to overfitting, especially with deep trees.
-    Can be unstable, as small changes in data might lead to a completely different tree.
+    : Prone to overfitting, especially with deep trees.
+    : Can be unstable, as small changes in data might lead to a completely different tree.
 
 Decision trees are often used as base models for more complex ensemble methods like Random Forests and Gradient Boosting Machines.
