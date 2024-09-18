@@ -4,7 +4,7 @@ In the analysis of cryptographic keystreams from the Grain-128 algorithm, ensuri
 
 # Analysis of Dataset and Models
 
-    > Binary Patterns: Dataset consists of 58 binary values followed by an index, showing potential patterns or biases in the keystream.
+    > Binary Patterns: Dataset consists of 128 binary values followed by an index, showing potential patterns or biases in the keystream.
 
     > Repetition and Uniformity: Observed repetition and biases suggest the need for further randomness testing.
 
